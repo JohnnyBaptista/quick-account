@@ -1,16 +1,8 @@
-## Electron + TypeScript + React
+# Quick account - Electron React with Typescript app
 
-Boilerplate for a project using Electron, React and Typescript.
+Manage quick account information from your creditors
 
-## Installation
-
-Use a package manager of your choice (npm, yarn, etc.) in order to install all dependencies
-
-```bash
-yarn
-```
-
-## Usage
+## Development usage
 
 Just run `start` script.
 
@@ -25,10 +17,9 @@ To generate the project package based on the OS you're running on, just run:
 ```bash
 yarn package
 ```
+## Download the App
 
-## Contributing
-
-Pull requests are always welcome 😃.
+-Todo
 
 ## License
 
